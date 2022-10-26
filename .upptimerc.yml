@@ -9,8 +9,8 @@ sites:
     url: fundamentalworldwide.com.au 
   - name: act automotive
     url: actautomotive.com.au
-  - name: adelaide hotel moruya
-    url: adelaidehotelmoruya.com
+  - name: Test Site for HTTP
+    url: testingmcafeesites.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
