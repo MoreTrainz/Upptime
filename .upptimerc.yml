@@ -5,8 +5,12 @@ repo: Upptime # The name of this repository
 sites:
   - name: 2Pure
     url: 2pure.com.au
-  - name: BOM
-    url: bom.gov.au
+  - name: fundamental worldwide
+    url: fundamentalworldwide.com.au 
+  - name: act automotive
+    url: actautomotive.com.au
+  - name: adelaide hotel moruya
+    url: adelaidehotelmoruya.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
