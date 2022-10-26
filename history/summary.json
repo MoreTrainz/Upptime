@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2818,
-    "timeDay": 2818,
-    "timeWeek": 2818,
-    "timeMonth": 2818,
-    "timeYear": 2818,
+    "time": 3381,
+    "timeDay": 3381,
+    "timeWeek": 3381,
+    "timeMonth": 3381,
+    "timeYear": 3381,
     "dailyMinutesDown": {}
   },
   {
     "name": "BOM",
-    "url": "www.bom.gov.au",
+    "url": "bom.gov.au",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bom",
     "status": "down",
-    "uptime": "6.04%",
-    "uptimeDay": "6.04%",
-    "uptimeWeek": "6.04%",
-    "uptimeMonth": "6.04%",
-    "uptimeYear": "6.04%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 301,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-10-26": 0
+      "2022-10-26": 7
     }
   }
 ]
