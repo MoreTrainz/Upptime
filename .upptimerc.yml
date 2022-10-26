@@ -6,7 +6,7 @@ sites:
   - name: 2Pure
     url: 2pure.com.au
   - name: BOM
-    url: www.bom.gov.au
+    url: bom.gov.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
