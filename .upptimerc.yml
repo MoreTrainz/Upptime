@@ -10,7 +10,7 @@ sites:
   - name: act automotive
     url: actautomotive.com.au
   - name: Test Site for HTTP
-    url: testingmcafeesites.com
+    url: neverssl.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
