@@ -4,10 +4,10 @@
     "url": "2pure.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "2-pure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4608,
@@ -15,17 +15,19 @@
     "timeWeek": 4560,
     "timeMonth": 4608,
     "timeYear": 4608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-12": 1
+    }
   },
   {
     "name": "fundamental worldwide",
     "url": "fundamentalworldwide.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fundamental-worldwide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4772,
@@ -33,14 +35,16 @@
     "timeWeek": 5127,
     "timeMonth": 4772,
     "timeYear": 4772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-12": 1
+    }
   },
   {
     "name": "act automotive",
     "url": "actautomotive.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "act-automotive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 5496,
     "timeMonth": 5084,
     "timeYear": 5084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-12": 0
+    }
   },
   {
     "name": "aaa fastplastering",
@@ -59,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aaa-fastplastering",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 815,
     "timeDay": 492,
-    "timeWeek": 660,
+    "timeWeek": 635,
     "timeMonth": 815,
     "timeYear": 815,
     "dailyMinutesDown": {
