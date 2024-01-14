@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.07%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "85.97%",
     "uptimeYear": "98.79%",
-    "time": 4722,
-    "timeDay": 611,
-    "timeWeek": 935,
-    "timeMonth": 3790,
-    "timeYear": 4890,
+    "time": 4713,
+    "timeDay": 517,
+    "timeWeek": 925,
+    "timeMonth": 3685,
+    "timeYear": 4882,
     "dailyMinutesDown": {
       "2024-01-06": 396,
       "2023-12-22": 553,
@@ -24,8 +24,7 @@
       "2023-12-18": 908,
       "2023-04-06": 20,
       "2023-03-18": 33,
-      "2023-01-25": 66,
-      "2023-01-14": 87
+      "2023-01-25": 66
     }
   },
   {
@@ -39,19 +38,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 4524,
-    "timeDay": 3883,
-    "timeWeek": 5029,
-    "timeMonth": 4486,
-    "timeYear": 4382,
+    "time": 4520,
+    "timeDay": 2785,
+    "timeWeek": 4185,
+    "timeMonth": 4438,
+    "timeYear": 4378,
     "dailyMinutesDown": {
       "2023-11-08": 25,
       "2023-07-06": 30,
       "2023-04-13": 19,
       "2023-03-18": 23,
       "2023-03-13": 118,
-      "2023-01-25": 66,
-      "2023-01-14": 53
+      "2023-01-25": 66
     }
   },
   {
@@ -60,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "act-automotive",
     "status": "down",
-    "uptime": "66.84%",
+    "uptime": "66.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.69%",
+    "uptimeYear": "59.42%",
     "time": 4188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3882,
+    "timeYear": 3879,
     "dailyMinutesDown": {
-      "2024-01-13": 65,
+      "2024-01-14": 71,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -222,8 +221,7 @@
       "2023-05-10": 51,
       "2023-05-09": 16,
       "2023-03-18": 23,
-      "2023-01-25": 35,
-      "2023-01-14": 63
+      "2023-01-25": 35
     }
   },
   {
@@ -238,18 +236,17 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 4001,
-    "timeDay": 3807,
-    "timeWeek": 4460,
-    "timeMonth": 4441,
-    "timeYear": 4293,
+    "timeDay": 4039,
+    "timeWeek": 4691,
+    "timeMonth": 4423,
+    "timeYear": 4292,
     "dailyMinutesDown": {
       "2024-01-03": 22,
       "2023-10-24": 20,
       "2023-03-18": 22,
       "2023-03-17": 74,
       "2023-03-16": 4,
-      "2023-01-25": 34,
-      "2023-01-14": 57
+      "2023-01-25": 34
     }
   }
 ]
