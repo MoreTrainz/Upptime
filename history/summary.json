@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 4295,
-    "timeDay": 1539,
-    "timeWeek": 2316,
-    "timeMonth": 1967,
-    "timeYear": 3699,
+    "time": 4288,
+    "timeDay": 1620,
+    "timeWeek": 2374,
+    "timeMonth": 1958,
+    "timeYear": 3693,
     "dailyMinutesDown": {
       "2024-11-07": 16,
       "2024-06-26": 17,
@@ -22,8 +22,7 @@
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 739,
-      "2024-02-03": 76,
-      "2024-02-02": 977
+      "2024-02-03": 76
     }
   },
   {
@@ -37,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.11%",
     "uptimeYear": "95.87%",
-    "time": 4751,
-    "timeDay": 4213,
-    "timeWeek": 4300,
-    "timeMonth": 4492,
-    "timeYear": 4926,
+    "time": 4749,
+    "timeDay": 4143,
+    "timeWeek": 4317,
+    "timeMonth": 4460,
+    "timeYear": 4921,
     "dailyMinutesDown": {
       "2025-01-15": 1372,
       "2025-01-14": 1440,
@@ -80,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "act-automotive",
     "status": "down",
-    "uptime": "35.82%",
+    "uptime": "35.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -91,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 711,
+      "2025-02-01": 83,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -454,8 +454,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -465,17 +464,16 @@
     "slug": "aaa-fastplastering",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2990,
-    "timeDay": 2646,
-    "timeWeek": 2390,
-    "timeMonth": 2524,
-    "timeYear": 2465,
+    "time": 2987,
+    "timeDay": 2680,
+    "timeWeek": 2457,
+    "timeMonth": 2535,
+    "timeYear": 2460,
     "dailyMinutesDown": {
-      "2025-01-31": 9,
       "2024-11-06": 30,
       "2024-06-26": 35,
       "2024-04-18": 20
