@@ -10,19 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 4288,
-    "timeDay": 1620,
-    "timeWeek": 2374,
-    "timeMonth": 1958,
-    "timeYear": 3693,
+    "time": 4280,
+    "timeDay": 1280,
+    "timeWeek": 2342,
+    "timeMonth": 1961,
+    "timeYear": 3686,
     "dailyMinutesDown": {
       "2024-11-07": 16,
       "2024-06-26": 17,
       "2024-02-09": 991,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 739,
-      "2024-02-03": 76
+      "2024-02-06": 739
     }
   },
   {
@@ -34,13 +33,13 @@
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.48%",
+    "uptimeMonth": "54.32%",
     "uptimeYear": "95.87%",
-    "time": 4749,
-    "timeDay": 4143,
-    "timeWeek": 4317,
-    "timeMonth": 4460,
-    "timeYear": 4921,
+    "time": 4752,
+    "timeDay": 6317,
+    "timeWeek": 4504,
+    "timeMonth": 4537,
+    "timeYear": 4924,
     "dailyMinutesDown": {
       "2025-01-15": 1372,
       "2025-01-14": 1440,
@@ -79,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "act-automotive",
     "status": "down",
-    "uptime": "35.76%",
+    "uptime": "35.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -90,7 +89,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1153,
+      "2025-02-02": 83,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -453,8 +453,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -468,11 +467,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2980,
-    "timeDay": 2247,
-    "timeWeek": 2395,
-    "timeMonth": 2516,
-    "timeYear": 2456,
+    "time": 2977,
+    "timeDay": 1905,
+    "timeWeek": 2381,
+    "timeMonth": 2527,
+    "timeYear": 2449,
     "dailyMinutesDown": {
       "2025-02-01": 16,
       "2024-11-06": 30,
