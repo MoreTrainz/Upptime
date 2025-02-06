@@ -10,18 +10,17 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.11%",
-    "time": 4247,
-    "timeDay": 1971,
-    "timeWeek": 1552,
-    "timeMonth": 1936,
-    "timeYear": 3724,
+    "time": 4243,
+    "timeDay": 1268,
+    "timeWeek": 1528,
+    "timeMonth": 1920,
+    "timeYear": 3741,
     "dailyMinutesDown": {
       "2025-02-03": 22,
       "2024-11-07": 16,
       "2024-06-26": 17,
       "2024-02-09": 991,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -33,13 +32,13 @@
     "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "64.13%",
+    "uptimeMonth": "67.42%",
     "uptimeYear": "95.87%",
     "time": 4760,
-    "timeDay": 4977,
-    "timeWeek": 4543,
-    "timeMonth": 4500,
-    "timeYear": 4924,
+    "timeDay": 3822,
+    "timeWeek": 4457,
+    "timeMonth": 4478,
+    "timeYear": 4925,
     "dailyMinutesDown": {
       "2025-02-03": 21,
       "2025-01-15": 1372,
@@ -79,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "act-automotive",
     "status": "down",
-    "uptime": "35.62%",
+    "uptime": "35.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -90,7 +89,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-05": 80,
+      "2025-02-06": 80,
+      "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -453,8 +453,7 @@
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -468,10 +467,10 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
-    "time": 2947,
-    "timeDay": 2195,
-    "timeWeek": 2462,
-    "timeMonth": 2525,
+    "time": 2944,
+    "timeDay": 1628,
+    "timeWeek": 2313,
+    "timeMonth": 2509,
     "timeYear": 2421,
     "dailyMinutesDown": {
       "2025-02-03": 52,
